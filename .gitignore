@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Pawns-Only Chess/task/build/
+/Pawns-Only Chess/task/out/
+/Pawns-Only Chess/task/out/production/classes/
